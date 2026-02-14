@@ -1,5 +1,5 @@
 # 👨‍💻 Ghanshyam Mandal  
-<img src="profile.jpg" width="120" height="120" style="border-radius: 50%; border: 3px solid #007acc;">
+<img src="profile.jpeg" width="120" height="120" style="border-radius: 50%; border: 3px solid #007acc;">
 ### Java Backend Developer | Banking & Payment Systems Specialist  
 
 📍 Hyderabad, India  
